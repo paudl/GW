@@ -2,10 +2,10 @@
 # coding: utf-8
 
 # ## Densidad de energía de ondas gravitacionales
-# 
+#
+# Breve modificación para probar git y git-hub
+#
 # Este script tiene el objetivo de obtener $$ \Omega_g(k\eta) = \frac{k^5V_k^2}{12 \pi^2 a^4 H^2}$$ para dos ecuaciones de estado distintas.
-# 
-# 
 # 
 # * Utilizando el modelo de bolsa del MIT.
 # 
